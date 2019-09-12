@@ -3,5 +3,8 @@ tensorflow/keras;pytorch
 库：
 numpy,scipy,matplotlib,pandas,pyqt
 
+交互式开发环境
+JUPYTER NOTEBOOK,JUPYTER LAB
+
 集成开发环境
 推荐pycharm
